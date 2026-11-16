@@ -1,0 +1,4 @@
+*.aedt.lock
+*.aedtresults/
+*.auto
+__pycache__/
